@@ -1,0 +1,26 @@
+# Node / AI (if added later)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.env
+
+# Build outputs
+dist/
+build/
+
+# Chrome Extension local data
+*.crx
+*.pem
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+logs/
+*.log
